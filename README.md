@@ -8,7 +8,11 @@ yarn start
 
 ## Para iniciar o back-end:
 
-cd api 
+entre na pasta api
+
+cd api
+
+use o comando
 
 npm start
 
