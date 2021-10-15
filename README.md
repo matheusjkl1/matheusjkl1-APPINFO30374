@@ -10,9 +10,9 @@ yarn start
 
 entre na pasta api
 
-cd api
+**cd api**
 
 use o comando
 
-npm start
+**npm start**
 
