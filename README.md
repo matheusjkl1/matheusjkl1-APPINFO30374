@@ -1,6 +1,3 @@
-# Getting Started with Create React App
-
-
 ## Para iniciar o front-end use o comando:
 
 _**yarn start**_
