@@ -82,6 +82,8 @@ function App() {
     if (regex && testPhone) return true
   }
 
+  console.log(response);
+
   return (
     <div className="App">
         { response.map(({ key, label, required, type: typeForm}) => {
@@ -108,7 +110,7 @@ function App() {
                       <TextField
                         sx={{ margin:2 }}
                         id="outlined-required"
-                        label={label}
+                        label={typeForm === 'date' ? '' : label}
                         variant="outlined"
                         type={typeForm}
                         name={key}
