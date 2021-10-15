@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##Para iniciar o front-end use o comando:
+
+yarn start
+
+
+##Para iniciar o back-end:
+
+cd api 
+
+npm start
 
 
 # matheusjkl1-APPINFO30374
