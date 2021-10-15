@@ -3,7 +3,7 @@
 
 ## Para iniciar o front-end use o comando:
 
-yarn start
+_**yarn start**_
 
 
 ## Para iniciar o back-end:
