@@ -1,16 +1,15 @@
-# Getting Started with Create React App
+## Para iniciar o front-end use o comando:
+
+_**yarn start**_
 
 
-##Para iniciar o front-end use o comando:
+## Para iniciar o back-end:
 
-yarn start
+entre na pasta api
 
+_**cd api**_
 
-##Para iniciar o back-end:
+use o comando
 
-cd api 
+_**npm start**_
 
-npm start
-
-
-# matheusjkl1-APPINFO30374
